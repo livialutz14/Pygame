@@ -1,6 +1,3 @@
-#Lívia Lutz dos Santos-Matrícula:2211055
-#Julia Guimarães Simão-Matrícula:2211834
-
 import pygame
 from pygame.font import *
 import random
